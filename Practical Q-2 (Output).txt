@@ -1,0 +1,24 @@
+### Kernel Information ###
+
+Kernel Version: Ubuntu 5.11.0-34.36~20.04.1-generic 5.11.22
+
+### CPU Information ###
+
+processor	: 0
+model		: 158
+model name	: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz
+processor	: 1
+model		: 158
+model name	: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz
+processor	: 2
+model		: 158
+model name	: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz
+processor	: 3
+model		: 158
+model name	: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz
+processor	: 4
+model		: 158
+model name	: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz
+processor	: 5
+model		: 158
+model name	: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz
