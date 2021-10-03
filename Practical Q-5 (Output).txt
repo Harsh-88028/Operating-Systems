@@ -1,0 +1,10 @@
+harsh@harsh-VirtualBox:~/Desktop/C++ Program$ cat demo.txt
+Demo File
+harsh@harsh-VirtualBox:~/Desktop/C++ Program$ cat backup.txt
+cat: backup.txt: No such file or directory
+harsh@harsh-VirtualBox:~/Desktop/C++ Program$ ./P5 demo.txt backup.txt
+Copying demo.txt to backup.txt
+harsh@harsh-VirtualBox:~/Desktop/C++ Program$ cat backup.txt
+Demo File
+harsh@harsh-VirtualBox:~/Desktop/C++ Program$ 
+
