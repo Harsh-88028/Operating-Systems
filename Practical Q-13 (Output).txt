@@ -1,0 +1,58 @@
+Enter the no of process:3
+Enter the no of blocks:3
+
+Enter the size of each process:
+Process 0:100
+Process 1:150
+Process 2:200
+
+Enter the block sizes:
+Block 0:300
+Block 1:350
+Block 2:200
+
+1.First fit 2.Best fit 3.Worst fit
+Enter your choice:1
+
+Alloc[100]
+Process 0 of size 100 is allocated in block 0 of size 300
+
+Alloc[150]
+Process 1 of size 150 is allocated in block 1 of size 350
+
+Alloc[200]
+Process 2 of size 200 is allocated in block 2 of size 200
+
+Enter your choice:2
+Best Fit
+
+After sorting block sizes are:
+Block 0:200
+Block 1:300
+Block 2:350
+
+Alloc[100]
+Process 0 of size 100 is allocated in block:0 of size:200
+
+Alloc[150]
+Process 1 of size 150 is allocated in block:1 of size:300
+
+Alloc[200]
+Process 2 of size 200 is allocated in block:2 of size:350
+
+enter your choice:3
+Worst Fit
+
+After sorting block sizes are:
+Block 0:350
+Block 1:300
+Block 2:200
+
+Alloc[100]
+Process 0 of size 100 is allocated in block 0 of size 350
+
+Alloc[150]
+Process 1 of size 150 is allocated in block 1 of size 300
+
+Alloc[200]
+Process 2 of size 200 is allocated in block 2 of size 200

@@ -1,0 +1,6 @@
+harsh@harsh-VirtualBox:~/Desktop/C++ Program$ ./P4 demo.txt
+Give File Name:file=demo.txt
+Ownered=1000
+gid=1000
+Access Permission=33204
+Access Time=1633932144

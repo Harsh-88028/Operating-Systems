@@ -1,0 +1,10 @@
+### Kernel Information ###
+
+Kernel Version: Ubuntu 5.11.0-37.41~20.04.2-generic 5.11.22
+
+### Memory status ###
+MemTotal:       11179824 kB
+MemFree:         8739016 kB
+MemAvailable:    9863188 kB
+
+
