@@ -1,0 +1,21 @@
+enter no of process
+5
+enter arival time 3
+enter arival time 2
+enter arival time 1
+enter arival time 0
+enter arival time 6
+enter brust time 1
+enter brust time 6
+enter brust time 2
+enter brust time 4
+enter brust time 3
+
+Process  Arrival-time(s)  Burst-time(s)  Waiting-time(s)  Turnaround-time(s)
+P1              3                1                  1               2
+P2              1                2                  4               6
+P3              6                3                  1               4
+P4              0                4                  0               4
+P5              2                6                  8               14
+
+average waiting time = 2.8 average turn around time=6

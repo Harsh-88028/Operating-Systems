@@ -1,0 +1,41 @@
+Enter the number of Processes: 5
+
+Enter arrival time of process: 4
+
+Enter arrival time of process: 2
+
+Enter arrival time of process: 8
+
+Enter arrival time of process: 5
+
+Enter arrival time of process: 7
+
+Enter burst time of process: 2
+
+Enter burst time of process: 7
+
+Enter burst time of process: 4
+
+Enter burst time of process: 9
+
+Enter burst time of process: 3
+
+Enter priority of process: 5
+
+Enter priority of process: 3
+
+Enter priority of process: 6
+
+Enter priority of process: 2
+
+Enter priority of process: 4
+
+Process    burst-time      arrival-time    waiting-time   turnaround-time   completion-time    Priority
+p1              2               4               32700           32702           32706             5
+p2              7               2               32707           32714           32716             3
+p3              4               8               32692           32696           32704             6
+p4              9               5               22012           1               22012             2
+p5              3               7               32699           32702           32709             4
+
+
+Average waiting time =30562  Average Turnaround time =26163

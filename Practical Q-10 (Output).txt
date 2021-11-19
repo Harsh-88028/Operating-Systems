@@ -1,0 +1,27 @@
+Enter burst time of process: 3
+
+Enter burst time of process: 1
+
+Enter burst time of process: 5
+
+Enter burst time of process: 2
+
+Enter priority of process: 2
+
+Enter priority of process: 3
+
+Enter priority of process: 4
+
+Enter priority of process: 5
+
+Enter priority of process: 5
+
+Process    burst-time      arrival-time    waiting-time    turnaround-time completion-time     Priority
+p1              4               0               11              15              15               2
+p2              3               1               8               11              12               3
+p3              1               2               0               1               3                4
+p4              5               3               0               5               8                5
+p5              2               4               4               6               10               5
+
+
+Average waiting time =4.6  Average Turnaround time =7.6
